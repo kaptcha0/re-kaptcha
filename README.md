@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**re-kaptcha/re-kaptcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<!-- Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=re-kaptcha&show_icons=true&theme=dracula&hide_border=true" alt="github stats" width="48%"/>
 
-Here are some ideas to get you started:
+<!-- Streaks -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=re-kaptcha&theme=dracula&hide_border=true" width="48%" align="right"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Top Languages -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=re-kaptcha&theme=dracula&hide_border=true&layout=compact" width="75%" />
+</p>
