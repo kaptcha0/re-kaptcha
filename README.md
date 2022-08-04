@@ -10,5 +10,5 @@
 
 <!-- Top Languages -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=re-kaptcha&theme=dracula&hide_border=true&layout=compact" width="75%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=re-kaptcha&theme=dracula&hide_border=true&layout=compact" width="55%" />
 </p>
