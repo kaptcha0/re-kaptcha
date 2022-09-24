@@ -500,7 +500,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Lua</span>
-                                <div class="bar" style="width: 72.13337100875954%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 72.17757797134026%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">90%</span>
                             </div>
                         </div>
@@ -824,7 +824,7 @@ NOTE 2: These solution might not be production ready, or even the best way to do
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2022, 23:37:43 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 24 Sept 2022, 01:07:45 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
