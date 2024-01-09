@@ -1,8 +1,6 @@
 # Welcome
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2500&center=true&vCenter=true&width=500&height=100&lines=I'm+a+Full-Stack+Software+Developer;I'm+a+wannabe+security+researcher!)](https://git.io/typing-svg)
 
   [![Github Stats](https://github-readme-stats.vercel.app/api?username=kaptcha0&count_private=true&show_icons=true&theme=gotham&hide_border=true)](https://git.io/readme-stats)
 
